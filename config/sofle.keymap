@@ -71,7 +71,7 @@
 &kp TAB           &trans        &kp RA(W)         &kp RA(E)         &trans  &trans       &mmv MOVE_DOWN   &kp HOME        &kp RA(U)   &kp RA(I)     &kp END          &kp UNDER    &kp DEL
 &kp LEFT_SHIFT    &kp RA(A)     &trans            &kp RA(D)         &trans  &trans       &mmv MOVE_LEFT   &kp LEFT_ARROW  &kp DOWN    &kp UP_ARROW  &kp RIGHT_ARROW  &trans       &trans
 &kp LEFT_CONTROL  &sys_reset    &trans            &kp RA(C)         &trans  &trans       &mmv MOVE_RIGHT  &kp RA(N)       &trans      &sys_reset    &soft_off        &bootloader  &kp RIGHT_SHIFT
-&trans            &kp LEFT_ALT  &trans            &kp LEFT_GUI      &trans  &kp SPACE    &mkp LCLK        &kp ENTER       &trans      &trans        &trans           &trans
+&kp C_MUTE        &kp LEFT_ALT  &trans            &kp LEFT_GUI      &trans  &kp SPACE    &mkp LCLK        &kp ENTER       &trans      &trans        &trans           &trans
             >;
 
             sensor-bindings = <&scroll_encoder>;
