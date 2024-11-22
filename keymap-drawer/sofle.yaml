@@ -64,7 +64,7 @@ layers:
   - '2'
   - $$mdi:apple-keyboard-option$$
   - RGB TOG
-  - RGB EFF
+  - RGB BRI
   layer1:
   - {t: '`', s: '~'}
   - F1
