@@ -137,7 +137,7 @@ layers:
   - AGr+ 3
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:menu-up$$', s: '$$mdi:mouse$$'}
+  - $$mdi:bluetooth-off$$
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: AGr+ 7, s: AGr+ &}
   - {t: AGr+ 8, s: AGr+ *}
