@@ -63,8 +63,8 @@ layers:
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - '2'
   - $$mdi:apple-keyboard-option$$
-  - '&bl BL_CYCLE'
-  - '&bl BL_TOG'
+  - RGB TOG
+  - RGB EFF
   layer1:
   - {t: '`', s: '~'}
   - F1
