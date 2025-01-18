@@ -84,11 +84,11 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: Sft+ -, s: Sft+ _}
+  - {t: Sft+-, s: Sft+_}
   - {t: '$$mdi:menu-down$$', s: '$$mdi:mouse$$'}
   - {t: '-', s: _}
-  - {t: Sft+ 9, s: Sft+ (}
-  - {t: Sft+ 0, s: Sft+ )}
+  - {t: Sft+9, s: Sft+(}
+  - {t: Sft+0, s: Sft+)}
   - {t: '$$mdi:transfer$$', type: trans}
   - PRINTSCREEN
   - {t: '$$mdi:backspace$$', type: backspace}
@@ -97,7 +97,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: Sft+ =, s: Sft+ +}
+  - {t: Sft+=, s: Sft++}
   - {t: '$$mdi:menu-left$$', s: '$$mdi:mouse$$'}
   - {t: '=', s: +}
   - {t: '[', s: '{'}
@@ -110,11 +110,11 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: Sft+ \, s: Sft+ |}
+  - {t: Sft+\, s: Sft+|}
   - {t: '$$mdi:menu-right$$', s: '$$mdi:mouse$$'}
   - {t: \, s: '|'}
-  - Sft+ {
-  - {t: 'Sft+ ]', s: 'Sft+ }'}
+  - Sft+{
+  - {t: 'Sft+]', s: 'Sft+}'}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - $$mdi:apple-keyboard-shift$$
@@ -133,34 +133,34 @@ layers:
   '2':
   - '~'
   - {t: '$$mdi:transfer$$', type: trans}
-  - AGr+ 2
-  - AGr+ 3
+  - AltGr+2
+  - AltGr+3
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - $$mdi:bluetooth-off$$
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: AGr+ 7, s: AGr+ &}
-  - {t: AGr+ 8, s: AGr+ *}
-  - {t: AGr+ 9, s: AGr+ (}
+  - {t: AltGr+7, s: AltGr+&}
+  - {t: AltGr+8, s: AltGr+*}
+  - {t: AltGr+9, s: AltGr+(}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - $$mdi:keyboard-tab$$
   - {t: '$$mdi:transfer$$', type: trans}
-  - AGr+ W
-  - AGr+ E
+  - AltGr+W
+  - AltGr+E
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {h: '1', s: '$$mdi:bluetooth-connect$$'}
   - HOME
-  - AGr+ U
-  - AGr+ I
+  - AltGr+U
+  - AltGr+I
   - END
   - _
   - $$mdi:backspace-reverse-outline$$
   - $$mdi:apple-keyboard-shift$$
-  - AGr+ A
+  - AltGr+A
   - {t: '$$mdi:transfer$$', type: trans}
-  - AGr+ D
+  - AltGr+D
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:menu-left$$', s: '$$mdi:mouse$$'}
@@ -173,11 +173,11 @@ layers:
   - $$mdi:apple-keyboard-control$$
   - {t: '$$mdi:backup-restore$$', type: bootloader}
   - {t: '$$mdi:transfer$$', type: trans}
-  - AGr+ C
+  - AltGr+C
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:menu-right$$', s: '$$mdi:mouse$$'}
-  - AGr+ N
+  - AltGr+N
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:backup-restore$$', type: bootloader}
   - '&soft_off'
