@@ -135,7 +135,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - AltGr+2
   - AltGr+3
-  - {t: '$$mdi:transfer$$', type: trans}
+  - AltGr+4
   - {t: '$$mdi:transfer$$', type: trans}
   - $$mdi:bluetooth-off$$
   - {t: '$$mdi:transfer$$', type: trans}
@@ -145,7 +145,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - $$mdi:keyboard-tab$$
-  - {t: '$$mdi:transfer$$', type: trans}
+  - AltGr+Q
   - AltGr+W
   - AltGr+E
   - {t: '$$mdi:transfer$$', type: trans}
@@ -171,7 +171,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - $$mdi:apple-keyboard-control$$
-  - {t: '$$mdi:backup-restore$$', type: bootloader}
+  - AltGr+Z
   - {t: '$$mdi:transfer$$', type: trans}
   - AltGr+C
   - {t: '$$mdi:transfer$$', type: trans}
