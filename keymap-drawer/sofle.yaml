@@ -1,4 +1,4 @@
-layout: {qmk_keyboard: sofle/rev1}
+layout: {zmk_keyboard: sofle}
 layers:
   LAYER0:
   - $$mdi:keyboard-esc$$
@@ -116,7 +116,7 @@ layers:
   - Sft+{
   - {t: 'Sft+]', s: 'Sft+}'}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - {t: \, s: '|'}
   - $$mdi:apple-keyboard-shift$$
   - $$mdi:volume-off$$
   - $$mdi:apple-keyboard-option$$
@@ -150,7 +150,7 @@ layers:
   - AltGr+E
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {h: '1', s: '$$mdi:bluetooth-connect$$'}
+  - {h: '$$mdi:arrow-down-bold$$', s: '$$mdi:bluetooth-connect$$'}
   - HOME
   - AltGr+U
   - AltGr+I
@@ -179,7 +179,7 @@ layers:
   - {t: '$$mdi:menu-right$$', s: '$$mdi:mouse$$'}
   - AltGr+N
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:backup-restore$$', type: bootloader}
+  - AltGr+K
   - '&soft_off'
   - $$mdi:progress-download$$
   - $$mdi:apple-keyboard-shift$$
